@@ -45,8 +45,7 @@
     margin-top: 15px;
     font-size: 15px;
     color: #999;
-    max-width: 40%;
-    word-wrap: normal;
+    max-width: 30%;
 
 }
 
@@ -97,5 +96,13 @@
     .featured--description{
         font-size: 14px;
         max-width: 100%;
+        margin-right: 30px;
+    }
+    .featured--watchbutton,
+    .featured--mylistbutton{
+        font-size: 14px;
+    }
+    .featured--genres{
+        font-size: 14px
     }
 }
