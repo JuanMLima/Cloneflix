@@ -8,9 +8,15 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 0 30px;
+    background: transparent; 
+    transition: all ease 0.5s;
+}
+header.black{
+    background-color: #141414;
 }
 .header--logo{
-    height: 75%;
+    height: 90%;
 }
 .header--logo img{
     height: 100%;
@@ -20,4 +26,5 @@ header{
 }
 .header--user img{
     height: 100%;
+    border-radius: 3px;
 }
