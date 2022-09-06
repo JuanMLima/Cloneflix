@@ -27,6 +27,7 @@ A **aplicação** mobile, algumas adaptações no **CSS**, para que ações como
 <div align="center">
 <image src="https://user-images.githubusercontent.com/99377147/188753545-a59d3a77-f0ad-40f9-adc4-fe12be911def.png"> </div>
 Na versão mobile, as "setas" que sinalizam continuidade da lista, recebe uma função para deixa-la sempre visivel, e as informações, se adaptam para um melhor preenchimento da tela dos usuários.
-</div>
-## Conclusão
-<h3> Embora eu saiba que existem algumas coisas a serem apromoradas, e  muitas a serem aprendidas, meu intuito com essa aplicação móvel de estudos é justamente nunca ficar parado, bem como todas as demais que fiz, e as que estão por vir. Sigo na trilha. #SHSF
+  
+<h2> Conclusão </h2>
+
+<h4> Embora eu saiba que existem algumas coisas a serem aprimoradas, e  muitas a serem aprendidas, meu intuito com essa aplicação de estudos é justamente nunca ficar parado, bem como todas as demais que fiz, e as que estão por vir. Sigo tolo e faminto. #SHSF
